@@ -42,32 +42,32 @@ class ohj_T1_2_2(unittest.TestCase):
 
 
 
-PS C:\Users\BabaerovaDildora\Documents\GitHub\Unittest> python -m unittest ohj_T1_2_2.py
-1
-on pariton
-2
-on parillinen
-3
-on pariton
-4
-on parillinen
-.1
-on pariton
-2
-on parillinen
-3
-on pariton
-4
-on parillinen
-5
-on pariton
-6
-on parillinen
-7
-on pariton
-.
-----------------------------------------------------------------------
-Ran 2 tests in 0.005s
+# PS C:\Users\BabaerovaDildora\Documents\GitHub\Unittest> python -m unittest ohj_T1_2_2.py
+# 1
+# on pariton
+# 2
+# on parillinen
+# 3
+# on pariton
+# 4
+# on parillinen
+# .1
+# on pariton
+# 2
+# on parillinen
+# 3
+# on pariton
+# 4
+# on parillinen
+# 5
+# on pariton
+# 6
+# on parillinen
+# 7
+# on pariton
+# .
+# ----------------------------------------------------------------------
+# Ran 2 tests in 0.005s
 
-OK
-PS C:\Users\BabaerovaDildora\Documents\GitHub\Unittest>
+# OK
+# PS C:\Users\BabaerovaDildora\Documents\GitHub\Unittest>
